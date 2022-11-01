@@ -1,0 +1,7 @@
+- 👋 Hi, I’m saifeddine romdhani, I am a senior student in computer science (software engineering) at the Faculty of Sciences of Tunis (FST).
+- 👀 I’m interested in programming and learning new things about it
+- 🌱 currently learning reactJS
+- 💞️ I’m looking to collaborate on computer science 
+- 📫 How to reach me : 
+-   1) facebook: https://www.facebook.com/profile.php?id=100086904728240
+-   2) Email: saifromdhani707@gmail.com
